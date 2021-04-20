@@ -5,6 +5,11 @@ body {
     background-color: #F2AA4CFF;
 }
 
+div {
+    justify-content: center;
+    
+}
+
 #title {
     margin: 0%;
     background-color: #101820FF;
@@ -15,14 +20,26 @@ body {
 
 }
 
-#logo {
-    align-content: left;
-    padding-right: 50%;
-    margin: 0%;
-    width: 5%;
-    height: 15%;
+#todo-container {
+    padding-top: 3%;
+    text-align: center;
+    
+    
+}
+
+
+
+#add-button {   
+    border: none;
+    color: #F2AA4CFF;
+    background-color:#101820FF;
+    padding: 1%;
+    font-weight: bold;
+    width: 20%;
+   
 }
 
 #input-box {
+    border: none;
     
 }
