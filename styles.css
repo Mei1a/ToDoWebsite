@@ -41,5 +41,20 @@ div {
 
 #input-box {
     border: none;
+    background-color: black;
+    color:#F2AA4CFF;
+    width:20%;
+    padding:17px;
+    font-weight: bold;
     
+}
+
+li {
+    text-decoration: none;
+    color:#F2AA4CFF;
+    background-color: black;
+    border-color: white;
+    display: block;
+    margin: 0%;
+    padding: 0%;
 }
