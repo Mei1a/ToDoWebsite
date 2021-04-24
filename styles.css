@@ -3,10 +3,13 @@ body {
     padding: 0%;
     margin: 0%;
     background-color: #F2AA4CFF;
+    
 }
 
 div {
-    justify-content: center;
+    
+    top: 50%;
+    left: 50%;
     
 }
 
@@ -61,10 +64,22 @@ div {
 
 li {
     text-decoration: none;
-    color:#F2AA4CFF;
-    background-color: black;
-    border-color: white;
+    color:#101820FF;
+    background-color:rgb(179, 120, 44);
+    border-color: #101820FF;
+    border-style:solid;
     display: block;
-    margin: 0%;
-    padding: 0%;
+    margin: 1%;
+    padding: 2%;
+    font-size: 110%;
+    
+    
+}
+
+.delete-button {
+    border: none;
+    margin: 1%;
+    padding: 10px;
+    background-color: #101820FF;
+    color: #F2AA4CFF;
 }
