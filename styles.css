@@ -49,6 +49,16 @@ div {
     
 }
 
+#input-date {
+    border: none;
+    background-color: black;
+    color:#F2AA4CFF;
+    width:10%;
+    padding:15px;
+    
+
+}
+
 li {
     text-decoration: none;
     color:#F2AA4CFF;
