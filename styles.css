@@ -3,14 +3,11 @@ body {
     padding: 0%;
     margin: 0%;
     background-color: #5CDB95;
-    
 }
 
 div {
-    
     top: 50%;
     left: 50%;
-    
 }
 
 #title {
@@ -20,15 +17,12 @@ div {
     text-align:center;
     padding-top: 2%;
     padding-bottom: 2%;
-
 }
 
 
 #todo-container {
     padding-top: 3%;
     text-align: center;
-    
-    
 }
 
 
@@ -40,7 +34,6 @@ div {
     padding: 1%;
     font-weight: bold;
     width: 20%;
-   
 }
 
 #add-button:hover {   
@@ -50,7 +43,6 @@ div {
     padding: 1%;
     font-weight: bold;
     width: 20%;
-   
 }
 
 #input-box {
@@ -60,7 +52,6 @@ div {
     width:20%;
     padding:17px;
     font-weight: bold;
-    
 }
 
 #input-date {
@@ -69,8 +60,6 @@ div {
     color:#8EE4AF;
     width:10%;
     padding:15px;
-    
-
 }
 
 li {
@@ -83,8 +72,6 @@ li {
     margin: 1%;
     padding: 2%;
     font-size: 110%;
-    
-    
 }
 
 .delete-button {
