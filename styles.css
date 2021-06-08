@@ -43,6 +43,16 @@ div {
    
 }
 
+#add-button:hover {   
+    border: none;
+    color: #101820FF;
+    background-color:#8EE4AF;
+    padding: 1%;
+    font-weight: bold;
+    width: 20%;
+   
+}
+
 #input-box {
     border: none;
     background-color: black;
@@ -83,5 +93,13 @@ li {
     padding: 10px;
     background-color: #101820FF;
     color: #8EE4AF;
+}
+
+.delete-button:hover {
+    border: none;
+    margin: 1%;
+    padding: 10px;
+    background-color: #101820FF;
+    color: #5cb47e;
 }
 
